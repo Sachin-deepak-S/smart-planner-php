@@ -138,10 +138,7 @@ config/database.php
 ## 👨‍💻 Author
 
 Sachin Deepak  
-Full Stack Developer (Learning & Building Daily)
-
-LinkedIn: https://linkedin.com/in/yourprofile  
-GitHub: https://github.com/yourusername  
+LinkedIn: [https://linkedin.com/in/ ](https://www.linkedin.com/in/sachin-deepak-s/) 
 
 ---
 
